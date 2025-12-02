@@ -1,5 +1,5 @@
 **Confidentiality Notice:**
-Due to organizational confidentiality, the original industry project I contributed to is part of a private organizational repository and cannot be shared publicly. This linked repository is a generalized, non-proprietary sample created solely to demonstrate my skills and workflow.
+Due to organizational policies, the original industry project I contributed to is part of a private company repository and cannot be shared publicly. This repository is a generalized, non-proprietary sample created solely to demonstrate my skills and workflow.
 
 
 # Multi-Tenant Architecture (Cloud Infrastructure Automation & Deployment Pipelines) (Sample Project)
